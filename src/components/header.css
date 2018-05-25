@@ -1,0 +1,14 @@
+.new,
+.what{
+	background-color: transparent;
+	border: none;
+	color: white;
+	font-size: 27px;
+	font-weight: bold;
+	cursor: pointer;
+	margin: 20px;
+}
+
+.new{
+	float: right;
+}
